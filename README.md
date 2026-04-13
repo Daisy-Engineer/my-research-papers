@@ -1,6 +1,6 @@
 # My Research Papers
 
-A collection of peer-reviewed publications by **Ning et al.** spanning machine learning, CO₂ sequestration, well interference, and carbon-neutral energy systems.
+A collection of peer-reviewed publications by **Ning et al.** spanning modeling, AI, and fiber optic sensing with application in oil/gas production, geothermal energy, carbon sequestration, and critical mineral systems.
 
 ---
 
